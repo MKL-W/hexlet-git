@@ -1,7 +1,1 @@
-HEllo, Hexl> README.md
-
-q
-pwd
-~
-ls
-echo HEllo, Hexl
+no code no pain
